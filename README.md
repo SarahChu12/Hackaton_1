@@ -7,4 +7,4 @@ proyecto de graduación python pro
 -cuidar el medio ambiente
 
 ## Tipo de proyecto :
--un bot de discord que use función por ordenador,que pueda generar imagenes,dar consejos y explicaciones y dar ideas para reciclar
+-un bot de discord que use visión por ordenador,que pueda generar imagenes,dar consejos y explicaciones y dar ideas para reciclar
